@@ -9,21 +9,21 @@ picture,img{
     max-width: 90%;
     margin: 0 auto;
 }
-.gallery li{
+li{
     list-style: none;
     width:100%;
     float: none;
 }
 
 @media screen and (min-width:600px) and (max-width:1200px) {
-    .gallery li{
+    li{
         float: left;
         width: 50%;
     }
 }
 
 @media screen and (min-width:1200px) {
-    .gallery li{
+    li{
         float: left;
         width: 25%;
     }
