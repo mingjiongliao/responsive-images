@@ -1,0 +1,29 @@
+html{
+    background-color: darkolivegreen;
+    color: firebrick;
+    font-size: 1rem;
+    text-align: center;
+}
+picture img{
+    max-width: 90%;
+    margin: 0 auto;
+    /*padding: 0 0 0.5rem 0;*/
+}
+li{
+    list-style: none;
+    width:100%;
+}
+
+@media screen and (min-width:600px) and (max-width:1200px) {
+    li{
+        float: left;
+        width: 50%;
+    }
+}
+
+@media screen and (min-width:1200px) {
+    li{
+        float: left;
+        width: 25%;
+    }
+}
