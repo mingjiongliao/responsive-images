@@ -2,7 +2,7 @@ html{
     background-color: navajowhite;
     color: firebrick;
 }
-picture img{
+picture,img{
     max-width: 90%;
     margin: 0 auto;
 }
