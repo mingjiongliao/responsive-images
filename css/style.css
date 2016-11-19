@@ -1,13 +1,10 @@
 html{
-    background-color: darkolivegreen;
+    background-color: navajowhite;
     color: firebrick;
-    font-size: 1rem;
-    text-align: center;
 }
 picture img{
     max-width: 90%;
     margin: 0 auto;
-    /*padding: 0 0 0.5rem 0;*/
 }
 li{
     list-style: none;
